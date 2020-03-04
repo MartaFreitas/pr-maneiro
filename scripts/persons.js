@@ -1,4 +1,10 @@
 const Persons = {
+  jesus:{
+    name: 'Jesus',
+    username: 'JesusSalva',
+    msg: 'Que delicia de PR Cara!',
+    image: 'https://imgur.com/kWsFtbl'
+  },
   ney: {
     name: 'Neymar Jr',
     username: 'neymarjr',
