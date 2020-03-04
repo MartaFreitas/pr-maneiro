@@ -49,12 +49,12 @@ const Persons = {
   },
   wesley: {
     name: 'Wesley',
-    username: 'wes',
+    username: 'cheiodesucesso',
     msg: 'Successfully!',
     image: 'https://i.imgur.com/Ii5vD8g.jpg'
   },
   neri: {
-    name: 'Wesley Neri',
+    name: 'Weslley Neri',
     username: 'wes+neri',
     msg: 'Ficou bom, mas em C#...',
     image: 'https://i.imgur.com/p075FlH.jpg'
