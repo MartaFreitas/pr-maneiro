@@ -1,15 +1,63 @@
 const Persons = {
-  jesus:{
+ ney: {
     name: 'Jesus',
     username: 'JesusSalva',
-    msg: 'Que delicia de PR Cara!',
-    image: 'https://imgur.com/kWsFtbl'
+    msg: 'Que delicia de PR Cara! 🤙🏿',
+    image: 'https://i.imgur.com/kWsFtbl.jpg'
   },
-  ney: {
-    name: 'Neymar Jr',
-    username: 'neymarjr',
-    msg: 'Saudade do que a gente não viveu ainda!!',
-    image: 'https://i.imgur.com/k2Uah9s.jpg'
+  fernando: {
+    name: 'Fernando',
+    username: 'fe_ohpai',
+    msg: 'Confia no pai!',
+    image: 'https://i.imgur.com/rch6GSa.jpg'
+  },
+  jhonata: {
+    name: 'Karol',
+    username: 'karol',
+    msg: '',
+    image: 'https://i.imgur.com/0CmfmCS.jpg'
+  },
+  karol: {
+    name: 'Jhon',
+    username: 'jhonjhon',
+    msg: 'Apesar dos nossos esforços...',
+    image: 'https://i.imgur.com/mtdQo3T.jpg'
+  },
+  marta: {
+    name: 'Marta',
+    username: 'martenha',
+    msg: 'Engraçado que quando a gente faz certo, da certo. 🤔',
+    image: 'https://i.imgur.com/s8hTHUr.jpg'
+  },
+  thalles: {
+    name: 'Thalles',
+    username: 'ChesterPraJesus',
+    msg: 'Demorei 3 semanas pra olhar esse PR, mas tá aprovado!!',
+    image: 'https://i.imgur.com/fgv6Cdl.jpg'
+  },
+  victor: {
+    name: 'Vitão',
+    username: 'vitao_0a100',
+    msg: 'Olha esse PR brother! 🏎',
+    image: 'https://i.imgur.com/JefHBNG.jpg'
+  },
+  sabri: {
+    name: 'Sabri',
+    username: 'sabri',
+    msg: 'Calma que vai dar tudo certo! 🤞',
+    image: 'https://i.imgur.com/Vgk1pCT.jpg'
+  },
+  wesley: {
+    name: 'Wesley',
+    username: 'wes',
+    msg: 'Successfully!',
+    image: 'https://i.imgur.com/Ii5vD8g.jpg'
+  },
+  neri: {
+    name: 'Wesley Neri',
+    username: 'wes+neri',
+    msg: 'Ficou bom, mas em C#...',
+    image: 'https://i.imgur.com/p075FlH.jpg'
   },
   chaves: {
     name: 'Chaves',
