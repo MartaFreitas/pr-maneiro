@@ -31,7 +31,7 @@ const Persons = {
   },
   thalles: {
     name: 'Thalles',
-    username: 'ChesterPraJesus',
+    username: 'ChesterUai',
     msg: 'Demorei 3 semanas pra olhar esse PR, mas tá aprovado!!',
     image: 'https://i.imgur.com/fgv6Cdl.jpg'
   },
