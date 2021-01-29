@@ -64,12 +64,6 @@ const Persons = {
     username: 'chapolim',
     msg: 'Ora, ora esse PR poderá nos ajudar...',
     image: 'https://imgur.com/Jl9FkDl.jpg'
-  }
-  chaves: {
-    name: 'Chaves',
-    username: 'chaves',
-    msg: 'Que burro dá zero no PR',
-    image: 'https://i.imgur.com/sU81hQd.jpg'
   },
   professor: {
     name: 'Professor Raimundo',
