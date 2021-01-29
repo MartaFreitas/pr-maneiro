@@ -63,7 +63,7 @@ const Persons = {
     name: 'Flávio',
     username: 'chapolim',
     msg: 'Ora, ora esse PR poderá nos ajudar...',
-    image: 'https://imgur.com/Jl9FkDl.jpg'
+    image: 'https://i.imgur.com/Jl9FkDl.jpg'
   },
   professor: {
     name: 'Professor Raimundo',
