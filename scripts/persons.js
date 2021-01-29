@@ -59,6 +59,12 @@ const Persons = {
     msg: 'Ficou bom, mas em C#...',
     image: 'https://i.imgur.com/p075FlH.jpg'
   },
+  flavio: {
+    name: 'Flávio',
+    username: 'chapolim',
+    msg: 'Ora, ora esse PR poderá nos ajudar...',
+    image: 'https://imgur.com/Jl9FkDl.jpg'
+  }
   chaves: {
     name: 'Chaves',
     username: 'chaves',
